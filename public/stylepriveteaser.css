@@ -18,10 +18,10 @@ h1
 	background:url(https://us.123rf.com/450wm/coffmancmu/coffmancmu1507/coffmancmu150700010/42052497-imaeg-of-blurred-bokeh-background-with-warm-orange-lights-blurred-.jpg?ver=6) center;
 	height:250px;
 	position:centered;
-	padding-top: 1,5%;
+	padding-top: 0%;
 	padding-right: 5%;
-	padding-bottom: 1,5%;
-	padding-left: 5%;
+	padding-bottom: 0%;
+	padding-left: 10%;
 }
 .js-name
 {
@@ -33,46 +33,53 @@ h1
 }
 .js-price-by-hour
 {
-	margin:10% 15%;
+	margin:5% 15% 5% 15%;
 	text-align:center;
 	position:relative;
 }
 .js-price-by-person
 {
-	margin:10% 5%;
+	margin:8% 5%;
 	text-align:center;
-	positive:relative;
+	position:relative;
 }
 
 #booker
 {
 	background:url(http://admin.traxmag.com//uploads/images/croped250x450/2016/09/Lyon__57d7d813e8a86.jpg) center;
 	height:250px;
-	position:relative;
-	padding-top: 1.5%;
-	padding-right: 5%;
-	padding-bottom: 1.5%;
-	padding-left: 5%;
+	position:centered;
+	padding-top: 0%;
+	padding-right:2%
+	padding-bottom: 0%;
+	padding-left:2%;
+	color:white;
 }
 
 .js-time
 {
-	margin:10% 15%;
+	margin:5% 15%;
 	text-align:center;
 	position:relative;
 }
 .js-persons
 {
-	margin:10% 5%;
+	margin:7% 2%;
 	text-align:center;
 	position:relative;
 }
 
+.js-options
+{
+	vertical-align:center;
+	position:relative;
+	color:white;
+	margin:5% 5%;
+}
 #compute
 {
 	text-align:center;
 	border-radius:30%;
 	margin:auto;
 	display:block;
-
 }
